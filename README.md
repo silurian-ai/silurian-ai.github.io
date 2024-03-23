@@ -1,0 +1,3 @@
+# Weathershop
+
+Static Website
