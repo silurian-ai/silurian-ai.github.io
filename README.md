@@ -1,3 +1,3 @@
-# Weathershop
+# Silurian AI
 
-Static Website
+Static website
